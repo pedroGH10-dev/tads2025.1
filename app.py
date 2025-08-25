@@ -1,5 +1,5 @@
 import streamlit as st 
-from functions.plot_ts import plot
+from functions.plotly_ts import plot
 
 st.title('Histórico de cotações')
 
